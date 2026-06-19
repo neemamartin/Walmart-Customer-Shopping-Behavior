@@ -186,11 +186,11 @@ Two tables joined via a date key:
 ---
 
 ### Screenshots:
-| Home | Search | Payment |
+| Executive Summary | Demographics | Geographics |
 |------|--------|---------|
-| ![Home Drill](Funnel_Analysis/screenshots/drill_home.png) | ![Search Drill](Funnel_Analysis/screenshots/drill_search.png) | ![Payment Drill](Funnel_Analysis/screenshots/drill_payment.png) |
+| ![Executive Summary](screenshots/executive-summary.png) | ![Demographics]((screenshots/demographics.png)) | ![Geographics]((screenshots/geographics.png)) |
 
-| Confirm | New Screenshot |
+| Product | Payment |
 |---------|----------------|
 | ![Confirm Drill](Funnel_Analysis/screenshots/drill_confirm.png) | ![New Screenshot](Funnel_Analysis/screenshots/new_screenshot.png) |
 
