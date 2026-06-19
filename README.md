@@ -8,7 +8,7 @@ through interactive visuals and DAX-powered KPI cards.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Retail Analytics](https://img.shields.io/badge/Retail%20Analytics-217345?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Retail Analytics](https://img.shields.io/badge/Retail%20Analytics-DC2626?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ---
 
 ## 🧠 Project Summary
@@ -186,14 +186,13 @@ Two tables joined via a date key:
 ---
 
 ### Screenshots:
+| Home | Search | Payment |
+|------|--------|---------|
+| ![Home Drill](Funnel_Analysis/screenshots/drill_home.png) | ![Search Drill](Funnel_Analysis/screenshots/drill_search.png) | ![Payment Drill](Funnel_Analysis/screenshots/drill_payment.png) |
 
-| Home | Search |
-|---|---|
-| ![Home Drill](Funnel_Analysis/screenshots/drill_home.png) | ![Search Drill](Funnel_Analysis/screenshots/drill_search.png) |
-
-| Payment | Confirm |
-|---|---|
-| ![Payment Drill](Funnel_Analysis/screenshots/drill_payment.png) | ![Confirm Drill](Funnel_Analysis/screenshots/drill_confirm.png) |
+| Confirm | New Screenshot |
+|---------|----------------|
+| ![Confirm Drill](Funnel_Analysis/screenshots/drill_confirm.png) | ![New Screenshot](Funnel_Analysis/screenshots/new_screenshot.png) |
 
 ---
 
