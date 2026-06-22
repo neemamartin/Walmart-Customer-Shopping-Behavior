@@ -188,11 +188,11 @@ Two tables joined via a date key:
 ### Screenshots:
 | Executive Summary | Demographics | Geographics |
 |------|--------|---------|
-| ![Executive Summary](screenshots/executive-summary.png) | ![Demographics]((screenshots/demographics.png)) | ![Geographics]((screenshots/geographics.png)) |
+| ![Executive Summary](screenshots/executive_summary.png) | ![Demographics](screenshots/demographics.png) | ![Geographics](screenshots/geograhics.png) |
 
 | Product | Payment |
 |---------|----------------|
-| ![Confirm Drill](Funnel_Analysis/screenshots/drill_confirm.png) | ![New Screenshot](Funnel_Analysis/screenshots/new_screenshot.png) |
+| ![Product](screenshots/products.png) | ![Payment](screenshots/payment.png) |
 
 ---
 
