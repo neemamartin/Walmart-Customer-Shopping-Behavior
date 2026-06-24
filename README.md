@@ -139,14 +139,14 @@ Two tables joined via a date key:
 
 | Visual | Description |
 |---|---|
-| Cities by Revenue (Bar) | North Michael leads (~$11.5K), followed by East Michael (~$11K) and New Michael (~$10.5K) — the "Michael" city cluster dominates the top tier |
+| Cities by Revenue (Bar) | North Michael leads (~ $11.5K), followed by East Michael (~ $11K) and New Michael (~$10.5K) — the "Michael" city cluster dominates the top tier |
 | Cities by Customer Count (Bar) | New Michael leads (~43 customers), followed by North Michael (~42) and Lake Michael (~38) — count ranking does not perfectly mirror revenue ranking |
-| Average Order Value by City (Bar) | West Paulport leads at ~$470; all cities cluster tightly between $410–$470 — a narrow $60 spread confirms AOV is broadly uniform across cities |
+| Average Order Value by City (Bar) | West Joseph leads at ~$322; all cities cluster tightly between $240–$290,indicating moderate variation in spending per order across locations. Higher-AOV cities do not necessarily align with the top revenue cities, suggesting differences in customer spending behavior rather than transaction volume alone. |
 
 **Key Findings:**
-1. Revenue concentrates in a geographically tight cluster — cities carrying the "Michael" prefix dominate both revenue and customer count rankings
-2. The cities with the highest AOV (West Paulport, West Rebeccashire, Sheppardshire) do not appear in the top revenue cities — these are low-volume, high-value markets representing untapped acquisition opportunities
-3. Scaling transaction volume in high-AOV cities could deliver revenue growth without any change in pricing or product mix
+1. North Michael, East Michael, and New Michael consistently rank among the top cities for both revenue and customer count, making them the strongest-performing markets.
+2. The highest-AOV cities (West Joseph, West William, and Port Christopher) differ from the top revenue cities, indicating that higher spending per order does not necessarily translate into the highest overall revenue.
+3. Revenue performance appears to be driven primarily by customer volume, while AOV highlights cities with stronger per-transaction spending potential.
 
 ---
 
@@ -159,7 +159,7 @@ Two tables joined via a date key:
 | Transaction Count by Category (Bar) | Electronics leads in volume; all four segments contribute nearly equally (~25% each) |
 | Revenue by Category (Donut) | Near-equal four-way split across Beauty, Clothing, Electronics, and Home (~25% each) |
 | Average Rating by Category (Bar) | Ratings near-uniform across all four categories (~4.5+) — consistent experience regardless of product type |
-| Top 10 Products by Revenue (Bar) | Smartwatch leads, followed by Shampoo and T-Shirt — top 10 spans all four categories evenly |
+| Top 10 Products by Revenue (Bar) | Smartphone leads, followed by Shampoo and T-Shirt — top 10 spans all four categories evenly |
 
 **Key Findings:**
 1. Product performance is remarkably balanced across all four categories in both revenue share and satisfaction scores
@@ -174,7 +174,7 @@ Two tables joined via a date key:
 | Visual | Description |
 |---|---|
 | Payment Method Usage (Bar) | Debit Card leads slightly (~11K); Credit Card, Cash on Delivery, and UPI all hover around 10K–11K — broadly even channel preference |
-| Revenue by Payment Method (Bar) | Debit Card generates the highest revenue (~$3M); all other methods contribute comparably (~$2.5–3M each) |
+| Revenue by Payment Method (Bar) | Debit Card generates the highest revenue aprrox $3M, all other methods contribute comparably (~$2.5–3M each) |
 | Avg Rating by Payment Method (Bar) | All four methods score near-uniformly at ~3.0/5 — payment friction does not meaningfully impact satisfaction |
 | Discount Applied vs Not by Payment Method (Stacked Bar) | Consistent discount split across all channels (~6K No vs ~4K Yes) — discount application is not tied to any specific payment method |
 
