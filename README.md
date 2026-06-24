@@ -1,4 +1,5 @@
-# 🛒 Walmart Customer Analytics Dashboard 
+# 🛒 Walmart Customer Analytics Dashboard ([Demo](https://drive.google.com/file/d/1jrvmY2b0FSFt9rpcqL61yWR-Cklw0JO-/view?usp=sharing))
+
 
 A comprehensive customer analytics dashboard built in Power BI to evaluate shopping behaviour
 across 50,000 Walmart transactions spanning January 2024 to February 2025 — analysing revenue
